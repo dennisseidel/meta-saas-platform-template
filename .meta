@@ -1,3 +1,5 @@
 {
-  "projects": {}
+  "projects": {
+    "saas-platform-tenant-management": "https://github.com/denseidel/saas-plaform-tenant-management"
+  }
 }
