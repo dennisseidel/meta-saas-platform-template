@@ -1,5 +1,6 @@
 {
   "projects": {
-    "saas-platform-tenant-management": "https://github.com/denseidel/saas-plaform-tenant-management"
+    "saas-platform-tenant-management": "https://github.com/denseidel/saas-plaform-tenant-management",
+    "saas-plaform-identity-provider": "https://github.com/denseidel/saas-plaform-tenant-identity-provider.git"
   }
 }
